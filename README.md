@@ -1,6 +1,6 @@
 # 🍔 FoodDash
+FoodDash es una startup de comida a domicilio que conecta a los usuarios con sus restaurantes favoritos y garantiza entregas rápidas, seguras y sin complicaciones.
 
-Landing page de una app de comida a domicilio.
 Proyecto desarrollado en Factoría F5.
 
 ## 📋 Secciones de la web
@@ -18,11 +18,11 @@ Proyecto desarrollado en Factoría F5.
 
 ## 👥 El equipo
 
-- Ana Belén Hernández
-- Gabriel Fernandez Melendez
-- Roman Dzhamalov
-- Mercy
-- Jessi
+- Ana Belén Hernández [Github](https://github.com/AnaBHernandez)
+- Gabriel Fernandez Melendez[Github](https://github.com/GabrielFernandezMelendez)
+- Roman Dzhamalov[Github](https://github.com/pshecko)
+- Mercy Chancayauri[Github](https://github.com/Estrega)
+
 
 ## 🚀 Cómo ver el proyecto
 
