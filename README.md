@@ -17,11 +17,11 @@ Proyecto desarrollado en Factoría F5.
 
   ![clon-imagen](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/Captura%20de%20pantalla%202026-03-05%20130130.jpg)
   
-* ubicación en terminal visual studio code
-  escribir
+* En visual studio code abrir terminal y escribir
+  
   
  ![clon-1](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso1.jpg)
-* ejecutar y verificar que este todo
+* ejecutar y verificar 
   
   ![clon-2](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso2.jpg)
   
