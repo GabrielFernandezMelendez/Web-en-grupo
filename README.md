@@ -37,7 +37,7 @@ Proyecto desarrollado en Factoría F5.
 - Ana Belén Hernández [Github](https://github.com/AnaBHernandez)
 - Gabriel Fernandez Melendez[Github](https://github.com/GabrielFernandezMelendez)
 - Roman Dzhamalov[Github](https://github.com/pshecko)
-- Jessica rodriguez[https://github.com/rodriguezjessika36-debug]
+- Jessica rodriguez[Github](https://github.com/rodriguezjessika36-debug)
 - Mercy Chancayauri[Github](https://github.com/Estrega)
 
 
