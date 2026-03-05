@@ -20,7 +20,8 @@ Proyecto desarrollado en Factoría F5.
 * En visual studio code abrir terminal y escribir
   
   
- ![clon-1](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso1.jpg)
+   ![clon-1](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso1.jpg)
+ 
 * ejecutar y verificar 
   
   ![clon-2](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso2.jpg)
