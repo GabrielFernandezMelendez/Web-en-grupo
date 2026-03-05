@@ -42,12 +42,15 @@ Proyecto desarrollado en Factoría F5.
 ## 👥 El equipo
 
 - Ana Belén Hernández [Github](https://github.com/AnaBHernandez)
-- Gabriel Fernandez Melendez[Github](https://github.com/GabrielFernandezMelendez)
-- Roman Dzhamalov[Github](https://github.com/pshecko)
-- Jessica rodriguez[Github](https://github.com/rodriguezjessika36-debug)
-- Mercy Chancayauri[Github](https://github.com/Estrega)
+- Gabriel Fernandez Melendez [Github](https://github.com/GabrielFernandezMelendez)
+- Roman Dzhamalov [Github](https://github.com/pshecko)
+- Jessica rodriguez [Github](https://github.com/rodriguezjessika36-debug)
+- Mercy Chancayauri [Github](https://github.com/Estrega)
 
 
 ## 🚀 Cómo ver el proyecto
 
 Abre el archivo index.html en tu navegador.
+ <p align="center">
+	 <img src="https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso3.jpg" width=100% height=100%/>
+</p
