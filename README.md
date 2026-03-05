@@ -1,6 +1,7 @@
 
-![delivery](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/readme.png)
-
+<p align="center">
+	  <img src="https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/readme.png" width=50% height=50%/>
+</p>
 
 
 # 🍔 FoodDash
@@ -14,17 +15,22 @@ Proyecto desarrollado en Factoría F5.
 
 ## 🧩 Instalación y uso 
 * clonación del repositorio
-
-  ![clon-imagen](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/Captura%20de%20pantalla%202026-03-05%20130130.jpg)
+<p align="center">
+	 <img src="https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/Captura%20de%20pantalla%202026-03-05%20130130.jpg" width=30% height=30%/>
+</p>
+ 
   
 * En visual studio code abrir terminal y escribir
+  <p align="center">
+	 <img src="https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso1.jpg" width=50% height=50%/>
+</p>
   
-  
-   ![clon-1](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso1.jpg)
  
 * ejecutar y verificar 
-  
-  ![clon-2](https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso2.jpg)
+  <p align="center">
+	 <img src="https://github.com/GabrielFernandezMelendez/Web-en-grupo/blob/main/imagenes/paso2.jpg" width=60% height=50%/>
+</p
+ 
   
 
 ## 🛠️ Tecnologías
