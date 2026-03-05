@@ -10,7 +10,7 @@ Proyecto desarrollado en Factoría F5.
 
 ## 📋 Descripción
 
-* La Landing Page presenta FoodDash como una solución moderna para quienes buscan comida de calidad sin complicaciones. Su objetivo es comunicar de forma clara la propuesta de valor, mostrar los beneficios del servicio y facilitar que nuevos usuarios descubran cómo funciona la plataforma. Resuelve la dispersión de información al ofrecer un punto centralizado donde se explica el servicio, se destacan sus ventajas y se invita a unirse.
+*  FoodDash es una solución moderna para quienes buscan comida de calidad sin complicaciones. Su objetivo es comunicar de forma clara la propuesta de valor, mostrar los beneficios del servicio y facilitar que nuevos usuarios descubran cómo funciona la plataforma. Resuelve la dispersión de información al ofrecer un punto centralizado donde se explica el servicio, se destacan sus ventajas y se invita a unirse.
 
 ## 🛠️ Tecnologías
 
